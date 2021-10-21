@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_1.png",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/royalline.PNG",
     title: "Royalline Online Store",
     description: "An ecommerce using Laravel.",
     tech_stack: "Html, Css, Javascript, Laravel",
@@ -9,30 +9,30 @@ export const ProjectList = [
     demo_url: "https://royalline.ng/",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_2.png",
-    title: "Fiber",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/news-app.PNG",
+    title: "AI Voice News App",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/fiber",
-    demo_url: "https://gurupawar.github.io/fiber/",
+      "News app made with react and Alan AI ",
+    tech_stack: "Css, Javascript, React",
+    github_url: "https://github.com/elechimoses/news-app-alan",
+    demo_url: "https://app.netlify.com/sites/voicenewswebapp",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/chat.PNG",
     title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
+    description: "A web chat system made with react.",
+    tech_stack: "Reactjs, Css, firebase",
+    github_url: "#",
+    demo_url: "https://rtl-coms.web.app",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
-    title: "Ecommerce website",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/clanefy.PNG",
+    title: "Social Network",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/ecommerce-react-app",
-    demo_url: "https://ecommerce-react-app.vercel.app/",
+      "Clanefy is a social network platform where users earn by referring, posting and completing a task set  buy the admin.",
+    tech_stack: "HTML, Css, Javascript, PHP, Laravel",
+    github_url: "https://bitbucket.org/elechi_golden/clanefy/src/master/",
+    demo_url: "#",
   },
 ];
 
@@ -40,31 +40,31 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/9aba637f643f27145eb2aea38df6aa0bdcf757c9/src/Assets/html5.svg",
     name: "HTML",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/9aba637f643f27145eb2aea38df6aa0bdcf757c9/src/Assets/css3.svg",
     name: "CSS",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/9aba637f643f27145eb2aea38df6aa0bdcf757c9/src/Assets/javascript.svg",
     name: "JavaScript",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/bootstrap.svg",
-    name: "Bootstrap",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/laravel.png",
+    name: "Laravel",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/sass.svg",
-    name: "Scss",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/node-js.png",
+    name: "Node JS",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/skill/git.svg",
     name: "Git",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/responsive.svg",
-    name: "Responsive",
+    img: "https://raw.githubusercontent.com/elechimoses/elechi-moses/main/src/Assets/react.png",
+    name: "React JS",
   },
 ];

@@ -21,13 +21,10 @@ function About() {
           />
           <div className="AboutBio">
             Hello! My name is <strong>Moses Elechi</strong> and I enjoy
-            creating things that live on the internet. My interest in web
-            development started back in 2014 when I decided to try editing
-            custom Blogger themes — redesigning & modifying blogger themes
-            taught me a lot about HTML & CSS!
+            solving problems with codes. Experienced with all stage of development cycle from simple to dynamic web projects. Well-versed in numerous programming technologies including HTML, CSS, JavaScript, PHP, laravel, node js, and React. 
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+            Here are some of technologies I use in solving Problems.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
